@@ -1,0 +1,10 @@
+
+{
+    "localbodydetails": {
+      "District": ["Eranakulam", "Malappuram", "Calicut", "Palakkad", "Kochi"],
+      "LocalBodytype": ["Grama Panchayats‍", "Block Panchayats‍", "District Panchayats‍", "Municipalities"],
+      "LocalBodyName": ["Eranakulam", "Ezhikkara", "Kaladi"],
+      "ZonalOffice": ["Eranakulam"],
+      "WardNo": ["20", "21", "22", "23", "24"]
+    }
+  }
